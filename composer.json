@@ -1,5 +1,5 @@
 {
-    "name": "HugCode/Oauth",
+    "name": "hug-code/oauth",
     "description": "第三方授权登陆 QQ登陆 新浪微博登陆 github登陆",
     "type": "library",
     "homepage": "http://www.hug-code.cn/",
